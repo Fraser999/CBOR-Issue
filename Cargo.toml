@@ -1,0 +1,8 @@
+[package]
+name = "cbor-u64-bug"
+version = "0.1.0"
+authors = ["Fraser Hutchison <fraser.hutchison@maidsafe.net>"]
+
+[dependencies]
+cbor = "*"
+rustc-serialize = "*"
